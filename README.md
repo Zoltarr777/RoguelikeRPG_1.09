@@ -49,6 +49,7 @@ Type: py engine.py
 ############################
 
 **Alpha 1.09 - 4/12/20**
+* Fixed PC saving and loading issue
 * Added gold
 * Fixed bug where you can continue playing after you die
 * Added new equipment types
